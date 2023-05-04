@@ -8,5 +8,5 @@
 // alert("Olá mundo!")
 
 // INPUT - ENTRADA DE DADOS
-// var senha = prompt("Informe a senha para acessar o arquivo: ");// Uma pergunta para o usuário
-// console.log(senha);
+console.log(prompt("Informe a senha para acessar o arquivo: "));// Uma pergunta para o usuário
+// senha
